@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-F_Cu.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-B_Cu.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-F_Paste.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-B_Paste.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-F_Mask.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-B_Mask.gbr'.
+Plotted to 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\pappymananasi\Documents\LCD_Project\gebber\LCD_Project-job.gbrjob'.
+Info: Done.
